@@ -4,7 +4,7 @@
 test readme file
 
 
-git init : 폴더 초기화, main branch 생성
+git init : 저장소폴더 초기화, main branch 생성<br>
 git init 폴더명 : 새 디렉토리 만들고 저장소 초기화과정 한번에 할때
 ls -la
 git status
